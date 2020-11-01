@@ -1,2 +1,5 @@
-gif
-cow
+pinguim
+girafa
+vaca
+leao
+panda
